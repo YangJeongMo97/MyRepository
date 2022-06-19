@@ -11,6 +11,7 @@ public class MyClass {
 		MyHello myHello = new MyHello();
 		myHello.sayHello();
 
+		System.out.println("v2.0");
 	}
 
 }
