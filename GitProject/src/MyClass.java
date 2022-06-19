@@ -5,7 +5,12 @@ public class MyClass {
 		// TODO Auto-generated method stub
 		System.out.println("Hello Git!");
 		System.out.println("This is Version 2");
+
 		System.out.println("Change in master branch");
+
+		MyHello myHello = new MyHello();
+		myHello.sayHello();
+
 	}
 
 }
